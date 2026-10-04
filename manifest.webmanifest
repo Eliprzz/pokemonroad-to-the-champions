@@ -1,0 +1,13 @@
+{
+  "name": "Pokémon Road to the Champions",
+  "short_name": "Road to the Champions",
+  "start_url": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
